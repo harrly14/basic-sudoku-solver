@@ -3,6 +3,7 @@
 - learned stringstream and array and fstream libraries more
 - learned how to print arrays
 - improved data manipulation skills
+- screwed up my git connection a bunch, but eventually corrected it
 the code: 
 - open file, go through lines to selected puzzle
 - grab appropriate numbers
