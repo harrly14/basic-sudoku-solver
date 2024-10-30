@@ -1,6 +1,6 @@
 Due to the size of the data, I am not uploading it to GitHub. However, all data can be found here: https://www.kaggle.com/datasets/bryanpark/sudoku
 
-Note that this data set is relatively simple in comparison to all possible sudokus, but that is good enough for this project since the goal is to learn more c++, not to create the perfect or most optimized solving algorithm.
+Note that this data set is relatively simple in comparison to all possible sudokus, but it is good enough for this project since the goal is to learn more c++, not to create the perfect or most optimized solving algorithm.
 
 For context on the data parsing, the DATA.csv file has data in the following format: 
 
